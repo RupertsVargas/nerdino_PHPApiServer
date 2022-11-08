@@ -1,0 +1,94 @@
+[
+    [
+        {
+            "date": "2022-11-08 15:32:53",
+            "temperatureC": "30\/34",
+            "MinTemperatureC": 30,
+            "MaxTemperatureC": 34,
+            "MinTemperatureF": 85,
+            "MaxTemperatureF": 93,
+            "temperatureF": "85\/93"
+        },
+        {
+            "date": "2022-11-09 15:32:53",
+            "temperatureC": "30\/31",
+            "MinTemperatureC": 30,
+            "MaxTemperatureC": 31,
+            "MinTemperatureF": 85,
+            "MaxTemperatureF": 87,
+            "temperatureF": "85\/87"
+        },
+        {
+            "date": "2022-11-10 15:32:53",
+            "temperatureC": "34\/37",
+            "MinTemperatureC": 34,
+            "MaxTemperatureC": 37,
+            "MinTemperatureF": 93,
+            "MaxTemperatureF": 98,
+            "temperatureF": "93\/98"
+        },
+        {
+            "date": "2022-11-11 15:32:53",
+            "temperatureC": "33\/39",
+            "MinTemperatureC": 33,
+            "MaxTemperatureC": 39,
+            "MinTemperatureF": 91,
+            "MaxTemperatureF": 102,
+            "temperatureF": "91\/102"
+        },
+        {
+            "date": "2022-11-12 15:32:53",
+            "temperatureC": "33\/40",
+            "MinTemperatureC": 33,
+            "MaxTemperatureC": 40,
+            "MinTemperatureF": 91,
+            "MaxTemperatureF": 103,
+            "temperatureF": "91\/103"
+        },
+        {
+            "date": "2022-11-13 15:32:53",
+            "temperatureC": "35\/38",
+            "MinTemperatureC": 35,
+            "MaxTemperatureC": 38,
+            "MinTemperatureF": 94,
+            "MaxTemperatureF": 100,
+            "temperatureF": "94\/100"
+        },
+        {
+            "date": "2022-11-14 15:32:53",
+            "temperatureC": "36\/38",
+            "MinTemperatureC": 36,
+            "MaxTemperatureC": 38,
+            "MinTemperatureF": 96,
+            "MaxTemperatureF": 100,
+            "temperatureF": "96\/100"
+        },
+        {
+            "date": "2022-11-15 15:32:53",
+            "temperatureC": "33\/33",
+            "MinTemperatureC": 33,
+            "MaxTemperatureC": 33,
+            "MinTemperatureF": 91,
+            "MaxTemperatureF": 91,
+            "temperatureF": "91\/91"
+        },
+        {
+            "date": "2022-11-16 15:32:53",
+            "temperatureC": "36\/37",
+            "MinTemperatureC": 36,
+            "MaxTemperatureC": 37,
+            "MinTemperatureF": 96,
+            "MaxTemperatureF": 98,
+            "temperatureF": "96\/98"
+        },
+        {
+            "date": "2022-11-17 15:32:53",
+            "temperatureC": "32\/33",
+            "MinTemperatureC": 32,
+            "MaxTemperatureC": 33,
+            "MinTemperatureF": 89,
+            "MaxTemperatureF": 91,
+            "temperatureF": "89\/91"
+        }
+    ]
+]
